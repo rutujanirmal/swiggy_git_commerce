@@ -1,1 +1,2 @@
 # Add your details below
+Hi, I am Pratham Goel. I'm pursuing B.Tech from Symbiosis University of Applied Sciences. I am really liking the training and I have learned a lot. Looking forward to learn new concepts.
