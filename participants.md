@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Add your details below
 
 Name: Nandini Jhanwar
@@ -10,3 +9,7 @@ Name : Pratham Goel
 Hello I am Rutuja
 
 Hi, I am Chinmay
+
+Hi, I am Pranav Konde
+
+
