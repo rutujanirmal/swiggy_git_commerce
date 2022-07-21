@@ -16,13 +16,7 @@ Name : Pratham Goel
 
 
 Hello I am Rutuja
-
 Hi, I am Chinmay
-
-
 Hi, I am Pranav Konde
-
 Hello Mayur here
 
-
->>>>>>> fab711573e559341242cc1aef49bb470682d03d5
