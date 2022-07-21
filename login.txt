@@ -1,2 +1,2 @@
 This is the login page code example
-Hello 1
+Hello
