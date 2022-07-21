@@ -1,2 +1,4 @@
-# Add your details below
+Hi, I am Sreenidhi Bendre.
+
 Name : Pratham Goel
+
