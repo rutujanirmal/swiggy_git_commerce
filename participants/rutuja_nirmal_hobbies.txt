@@ -1,2 +1,5 @@
 Rutuja Nirmal
 Hobbies : Graphic Designing, Sleeping & Binge Watching
+
+
+Note: Created a branch and tried merging the branch to master
