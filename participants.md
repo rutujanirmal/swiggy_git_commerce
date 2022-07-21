@@ -1,4 +1,5 @@
 # Add your details below
+Hi, I am Ajay Jagtap. I'm pursuing B.E from Nutan Maharashtra Institude of Engineering and Technology.
 
 Name: Nandini Jhanwar
 
@@ -8,5 +9,12 @@ Name : Pratham Goel
 
 Hello I am Rutuja
 
+
 Hello Mayur here
+
+Hi, I am Pranav Konde
+
+
+
+
 
